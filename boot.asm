@@ -132,7 +132,7 @@ ReadSectors:
 ;	Bootloader Entry Point
 ;*********************************************
 
-main:
+start:
 
      ;----------------------------------------------------
      ; code located at 0000:7C00, adjust segment registers
